@@ -1,0 +1,32 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 18px black;
+}
+
+.heading_2{
+    font-size: 20px;
+    color: rgb(2, 2, 2);
+    font-family: 'Dancing Script', cursive;
+}
+
+.footer{
+    text-align: center;
+    width: 100%;
+    background: grey;
+    bottom: 0;
+    color:black;
+    font-family: 'Dancing Script', cursive;
+    position: fixed;
+    font-size: 18px;
+    line-height: 2;
+}
+
+canvas{
+    border: lightcoral;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px black;
+    
+}
